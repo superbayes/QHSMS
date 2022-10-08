@@ -1,7 +1,7 @@
 # Welcome to QHSMS
 
 Welcome to QHSMS!
-Here, thanks to The [author](https://gitee.com/liyuanbhu/qhsms)
+Here, thanks to The [frist version author](https://gitee.com/liyuanbhu/qhsms)
 
 ## Repositories
 
